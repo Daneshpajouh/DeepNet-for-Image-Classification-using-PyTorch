@@ -1,4 +1,4 @@
-# Deep-Net for Image Classification using PyTorch
+# DeepNet for Image Classification using PyTorch
 ### Spring 2021
 *Course project (Permission granted from the instructor)
 
